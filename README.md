@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagyadidulanka&label=Profile%20views&color=0e75b6&style=flat" alt="bhagyadidulanka" /> </p>
 
-- 🌱 I’m currently learning **React,tailwindcss,node.js,express.js**
+- 🌱 I’m currently learning **React,tailwindcss,node.js,express.js,.NET**
 
 - 💬 Ask me about **React**
 
